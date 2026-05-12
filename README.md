@@ -1,6 +1,6 @@
 # Droplet Length Prediction in Flow-Focusing Microfluidic Channels
 
-B.Tech Project | Chemical Engineering | IIT Dharwad
+B.Tech Project | IIT Dharwad
 
 ---
 
